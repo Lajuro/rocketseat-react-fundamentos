@@ -11,7 +11,7 @@ Neste repositório será mantido os arquivos do curso da Rocketseat sobre React 
 - [x] O que são propriedades?
 - [x] CSS Modules
 - [x] CSS Global
-- [ ] Iteração para criação de componentes
+- [x] Iteração para criação de componentes
 - [ ] O que são estados (useState)?
 - [ ] O que é key?
 - [ ] Comunicação entre componentes
