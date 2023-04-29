@@ -113,12 +113,17 @@
   color: var(--white);
   font-weight: bold;
   cursor: pointer;
-  transition: background-color 100ms;
+  transition: background-color 100ms, opacity 300ms;
 }
 
-.commentForm > button[type=submit]:hover,
-.commentForm > button[type=submit]:focus {
+.commentForm button[type=submit]:not(:disabled):hover,
+.commentForm button[type=submit]:not(:disabled):focus {
   background: var(--green-300);
+}
+
+.commentForm button[type=submit]:disabled {
+  opacity: .3;
+  cursor: not-allowed;
 }
 
 .commentList {

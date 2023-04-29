@@ -12,12 +12,12 @@ Neste repositório será mantido os arquivos do curso da Rocketseat sobre React 
 - [x] CSS Modules
 - [x] CSS Global
 - [x] Iteração para criação de componentes
-- [ ] O que são estados (useState)?
-- [ ] O que é key?
-- [ ] Comunicação entre componentes
-- [ ] O que é imutabilidade?
-- [ ] Validação do formulário
-- [ ] O que são closures?
+- [x] O que são estados (useState)?
+- [x] O que é key?
+- [x] Comunicação entre componentes
+- [x] O que é imutabilidade?
+- [x] Validação do formulário
+- [x] O que são closures?
 - [ ] Fundamentos do TypeScript
 - [ ] TypeScript no React
 - [x] Responsividade
